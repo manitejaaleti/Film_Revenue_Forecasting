@@ -1,5 +1,5 @@
 # Movie_Box_Office_Prediction
->Objective: Classify movies as 'HIT,' 'AVG,' or 'FLOP' using factors like director popularity, actor influence, and budget.
+Objective: Classify movies as 'HIT,' 'AVG,' or 'FLOP' using factors like director popularity, actor influence, and budget.
 <br>
 Data Handling: Cleaned dataset with feature encoding and selection.
 <br>
